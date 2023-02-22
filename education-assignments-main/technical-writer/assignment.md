@@ -44,7 +44,7 @@ Push, pull, and fetch are commonly used Git commands that allow you to to make c
 - `git pull` - Fetches and merges the remote repository to your local file. This action can overwrite local changes that have not yet been committed.
 
 
-If the remote branch has diverged from your local branch, the `git push` command will fail with the following message:  “error: Your local changes to the following files would be overwritten by merge.”
+If the remote branch has diverged from your local branch, the `git push` command will fail with the following message: error: Your local changes to the following files would be overwritten by merge.
 
 **NOTE**: The `git status` command safely displays any differences between the local and remote branches. 
 
