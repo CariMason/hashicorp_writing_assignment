@@ -37,7 +37,9 @@ Once you're finished with your edits, send the PR link to the HashiCorp recruite
 
 ### What is the difference between push, pull, and fetch?
 
-Push, pull, and fetch are commonly used Git commands that allow you to to make changes to a shared repository. 
+Git is a distributed version control system that tracks and manages changes to a shared repository. 
+
+This section describes some of the most commonly used Git comands that allow you to to make changes to the repository. 
 
 - `git push` - Publishes changes from a local repository to a remote repository. The changes update the remote repository to resemble your local branch. 
 - `git fetch` - Safely downloads commits, files, and references from a remote repository into your local repository. It does not automatically merge them.
